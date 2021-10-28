@@ -4,4 +4,4 @@ Welcome to the website for my Twine Game, created for the course IASC 1P04 at Br
 
 ## Prototype
 
-Play my prototype [here]().
+Play my prototype [here](prototype/WhiteMelody_Prototype.html).
